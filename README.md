@@ -15,4 +15,5 @@ But it was not as usual, it was worrying because we were not sure if the humans 
 s = "Python syntax highlighting"
 print ROBOT
 ```
-<br> But we are smarter than machines because we are their gods </br>
+<br> But we are smarter than machines because we are their gods </br>  
+By the way humans created machines and this is it!
