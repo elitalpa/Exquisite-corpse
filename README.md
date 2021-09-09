@@ -17,3 +17,6 @@ print ROBOT
 ```
 <br> But we are smarter than machines because we are their gods </br>  
 By the way humans created machines and this is it!
+
+THE END..
+***  
