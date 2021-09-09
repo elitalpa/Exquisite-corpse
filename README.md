@@ -10,3 +10,8 @@ But it was not as usual, it was worrying because we were not sure if the humans 
 
 **************************
 ### Of course robots gonna rules us, asap ....
+ 
+```python
+s = "Python syntax highlighting"
+print ROBOT
+```
